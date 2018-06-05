@@ -14,12 +14,55 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="20.0dp"
-        android:height="20.0dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0">
+    android:width="16dp"
+    android:height="16dp"
+    android:viewportWidth="1000"
+    android:viewportHeight="1000">
+
     <path
-        android:fillColor="#FFFFFFFF"
-        android:pathData="M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M15.5,8C16.3,8 17,8.7 17,9.5C17,10.3 16.3,11 15.5,11C14.7,11 14,10.3 14,9.5C14,8.7 14.7,8 15.5,8M10,9.5C10,10.3 9.3,11 8.5,11C7.7,11 7,10.3 7,9.5C7,8.7 7.7,8 8.5,8C9.3,8 10,8.7 10,9.5M12,14C13.75,14 15.29,14.72 16.19,15.81L14.77,17.23C14.32,16.5 13.25,16 12,16C10.75,16 9.68,16.5 9.23,17.23L7.81,15.81C8.71,14.72 10.25,14 12,14Z" />
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="82"
+        android:strokeMiterLimit="1"
+        android:pathData="M500,50 C748.528,50,950,251.472,950,500 C950,748.528,748.528,950,500,950
+C251.472,950,50,748.528,50,500 C50,251.472,251.472,50,500,50 Z" />
+    <path
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="82"
+        android:strokeMiterLimit="1"
+        android:pathData="M72,628.6 L230.4,371.4" />
+    <path
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="82"
+        android:strokeMiterLimit="1"
+        android:pathData="M382.4,628.6 L224,371.4" />
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M221.9,366.1 L232.5,366.1 L232.5,384.2 L221.9,384.2 L221.9,366.1 Z" />
+    <path
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="82"
+        android:strokeMiterLimit="1"
+        android:pathData="M627.3,624 L373.9,624" />
+    <path
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="82"
+        android:strokeMiterLimit="1"
+        android:pathData="M626.7,499.6 L373.3,499.6" />
+    <path
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="82"
+        android:strokeMiterLimit="1"
+        android:pathData="M626.7,376.3 L373.3,376.3" />
+    <path
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="82"
+        android:strokeMiterLimit="1"
+        android:pathData="M620.4,626.6 L932.8,375.3" />
+    <path
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="82"
+        android:strokeMiterLimit="1"
+        android:pathData="M931,625.3 L620.1,373.9" />
 </vector>
